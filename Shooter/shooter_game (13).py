@@ -3,8 +3,10 @@ from random import randint
 from time import time as timer
 
 init()
-WIDTH = 700
-HEIGHT = 500
+WIDTH = 800
+HEIGHT = 600
+qwerty = 'jkshgirwufhewknskj'
+
 scr = display.set_mode((WIDTH, HEIGHT))
 display.set_caption('shooter')
 background = transform.scale(image.load('galaxy.jpg'), (WIDTH, HEIGHT))
