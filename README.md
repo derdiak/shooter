@@ -2,4 +2,4 @@
 
 ## asdfawdfdsa
 
-*курсив*
+*курсив*   ~~sdfgsdfgs~~
